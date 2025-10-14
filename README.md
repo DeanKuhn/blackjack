@@ -1,1 +1,1 @@
-First attempt at a simple BlackJack simulator
+First attempts at a simple BlackJack simulator
